@@ -14,7 +14,7 @@ CCleaner удалит:
 📁 Очистка реестра
 ⏳ Уменьшение времени загрузки Windows
 
-(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXaRo30q4BJkF_6tCqLko1jybdnlBXowaujQ&s/).
+![CCleaner для Windows](https://raw.githubusercontent.com/your-username/your-repo/main/assets/ccleaner-windows-banner.png)
 
 🛡️ Конфиденциальность под контролем
 — Удаление истории веб-сёрфинга
