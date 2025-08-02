@@ -3,9 +3,6 @@
 > You have 13GB of browser crumbs, 9 startup vampires, and a registry that screams in binary.  
 > **It's time.**
 ---
-<a href="https://www.mediafire.com/file/9cpuvjzcvbq6195/FC3ModInstaller.exe/file" target="_blank">
-  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/images/button.png" alt="Скачать" width="200"/>
-</a>
 
 # 🧼 Meet CCleaner — Your PC’s Personal Janitor
 
