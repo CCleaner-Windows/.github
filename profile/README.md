@@ -49,9 +49,13 @@
 ✅ Legend:
 ✅ — Fully Supported
 
-### 🎬 Watch CCleaner in Action
+### 📸 CCleaner Screenshots
 
-[![Watch CCleaner in Action](https://img.youtube.com/vi/LNlhp0atGZ0/hqdefault.jpg)](https://www.youtube.com/watch?v=LNlhp0atGZ0)
+![CCleaner UI Screenshot](https://www.snapfiles.com/screenfiles/ccleaner.png)  
+*Main dashboard interface*
+
+![CCleaner Settings Screenshot](https://www.snapfiles.com/screenfiles/ccleaner2.png)  
+*Settings and cleanup options*
 
 ⚠ — Partially Supported or Limited
 
