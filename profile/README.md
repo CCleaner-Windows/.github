@@ -49,6 +49,10 @@
 ✅ Legend:
 ✅ — Fully Supported
 
+### 🎬 Watch CCleaner in Action
+
+[![Watch CCleaner in Action](https://img.youtube.com/vi/LNlhp0atGZ0/hqdefault.jpg)](https://www.youtube.com/watch?v=LNlhp0atGZ0)
+
 ⚠ — Partially Supported or Limited
 
 ❌ — Not Available
